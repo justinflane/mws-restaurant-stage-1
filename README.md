@@ -1,3 +1,6 @@
+Use flexbox to set layout - see screenshot.
+set @media queries too
+
 # Mobile Web Specialist Certification Course
 ---
 #### _Three Stage Course Material Project - Restaurant Reviews_
